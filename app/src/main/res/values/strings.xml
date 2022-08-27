@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="welcome_label">Welcome to RecycleView app</string>
+    <string name="cd_character_image">Character image</string>
+</resources>
